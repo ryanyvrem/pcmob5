@@ -11,3 +11,4 @@ export default function SignUpScreen({ navigation }) {
 }
 
 const styles = StyleSheet.create({});
+
